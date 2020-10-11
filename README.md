@@ -6,4 +6,8 @@ Nicole Hayashi's data science portfolio
 ![](images/golfmetrics.png)
 
 # [Project 2: Who will win the 2020 Masters?](https://github.com/nicolehayashi/masterswinner/blob/master/2020masterswinner.ipynb)
-* This project is paused until after earnings.  I created a quick model that needs to be tweaked and re-uploaded when I'm done.
+* This is my first attempt at predicting the winner of the 2020 Masters, a major professional golf tournament
+* Analyzed past Masters winners and lowest (best) scoring players over time
+* Created a multivariate linear regression model to predict who is most likely to win the 2020 Masters (November 12-15, 2020)
+
+![](images/2020masters.png)
