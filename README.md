@@ -9,4 +9,3 @@ Nicole Hayashi's data science portfolio
 * Analyzed past Masters winners and lowest (best) scoring players over time
 * Created a multivariate linear regression model to predict who is most likely to win the 2020 Masters (November 12-15, 2020)
 
-![](images/2020masters.png)
