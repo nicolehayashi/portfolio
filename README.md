@@ -8,4 +8,6 @@ Nicole Hayashi's data science portfolio
 # [Project 2: Who will win the 2020 Masters?](https://github.com/nicolehayashi/masterswinner/blob/master/2020masterswinner.ipynb)
 * Analyzed past Masters winners and lowest (best) scoring players over time
 * Created a multivariate linear regression model to predict who is most likely to win the 2020 Masters (November 12-15, 2020)
+* Update (November 15, 2020):  Dustin Johnson won the 2020 Masters Tournament!  He was ranked #8 in this analysis (see graphic below).
 
+![](images/2020masterstop10winners.png)
